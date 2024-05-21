@@ -1,6 +1,6 @@
 # Orthosie-I-Gauges
-A demo show how to use the module and a Wurth Temperature & Humidity sensor 
-Orthosie-I https://www.we-online.com/en/components/products/ORTHOSIE-I
+A demo show how to use the Orthosie-I module and a Wurth Temperature & Humidity sensor 
+https://www.we-online.com/en/components/products/ORTHOSIE-I
 Temperature & Humidity Sensor used on a Featherwing 
 https://www.we-online.com/en/components/products/SENSOR_FEATHERWING 
 Creates a nice webpage with two gauges displaying current Temperature and Humidity
